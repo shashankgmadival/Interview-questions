@@ -17,3 +17,19 @@
 9. what is neural Network without activation form
 
 10. different b/w forward propogation & backword propagation
+
+11. what is CNN
+
+12. why CNN is preferred over ANN for image data
+
+13. Explain layer in CNN
+
+14.why fs pooling layer used in CNN
+
+15. if an input image is converted a matrix Size 12 x 12 with Stride of 1 then filter size of 3x3 and find Size of convoluted matrice
+
+16. what is Stride
+
+17. why 1X1 convolution useful.
+
+18.what is kernel in CNN? what does kernel Size mean
