@@ -1,1 +1,97 @@
-dkjvdjc
+1.what is the KNN Algoritham KNN algorithms && what is 'k' im the knn algorithm
+
+2.How does dataset KNN algorithom make the prediction on unseen dataset
+
+3.is it possible to use kNN for image procesing
+
+4. is feature Scaling required for KINN Algorithm
+
+5. Advantage & disadvantage of KNN
+
+6.Explain working of KNN algorithams
+
+7. Can KNN can be used for larger dataset
+
+8. Explain pros and cons in knN
+
+9.what as weak learner.
+
+10. Meaning of bagging & Boosting
+
+11.why bagging better than boosting
+
+12. Diffence b/w bagging & boosting & Stacking
+
+13.Advantages of bagging & boosting
+
+14.disadvantages of bagging & boosting
+
+15. How bagging classifier works 
+
+16. what is bood strap
+
+17. typer of Boosting techniques
+
+18. why does XG boost perform better than svm
+
+19. is XG boost better tham randoms forest
+
+20.Structure and different nodes of decision tree
+
+21.Advantages of using decision tree
+
+22.what is entropy
+
+23.what are decision tree
+
+24.what  are the popular methods in which decision. made
+
+25.Gini index information gain.
+
+26.difference b/w K-Means K-Meas & KNN.
+
+27.what is K-Means:
+
+28.what does k K- Meams point Stand-for 
+
+29.What is centroid in K-means Clustering 
+
+30.Advantages of disadvantages of K-means 
+
+31.Steps in K-means.
+
+32. limitations K-means
+
+33.what is Linear regression r
+
+34.what is r2 Score.
+
+35.what are pros & cons of linear regresion
+
+36.MSE & RMSE
+
+37.what is Scalling
+
+38.bias Variance trade-off
+
+39.Key matrics used to check performance of logistic regression
+
+40.Advantage & disadvantages of logistics regression
+
+41. How does logistic regression model is trained. traine
+
+42. difference between logistics & linear regression
+
+43.what is naive bayed 
+
+44.How bayesian Statistics Bayesian is related to machine Learning
+
+45.Advantages and application of Naive bayes classifier
+
+46.why Naive Bayes is called Naive.
+
+47.How does naive bayes classifier Naive bayes work
+
+48. Application of Naive baye algorithms
+
+49.How Naive bayes is different from others
